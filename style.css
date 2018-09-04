@@ -1,0 +1,65 @@
+
+
+
+
+
+
+body {
+	background: url('11img.jpg');
+	background-size: 100%;
+	background-attachment: fixed;
+	text-align: center;
+	margin:150px 0px 70px 400px;
+	background-repeat: no-repeat;
+}
+	#registration{
+		width:55%;
+		background-color: #010c1f;
+		opacity: 0.7;
+		padding: 50px 0px;
+	}
+#name{
+	width: 300px;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+	padding: 7px;
+}
+#ph{
+	width: 65px;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+	padding: 7px;
+}
+#button{
+	width: 250px;
+	border: none;
+	border-radius: 20px;
+	padding: 10px 40px;
+
+}
+#butt{
+    width: 200px;
+	background-color: #3e7e63;
+	border-radius: 20px;
+	outline: 0;
+	padding: 10px 40px;
+	border: 2px;
+}
+.label{
+	color: white;
+	font-family: sans-serif;
+     font-size: 68px;
+     font-style: italic;
+
+}
+
+
+
+  input {
+  	
+  	align-items: center;
+  }
+  } 
+}

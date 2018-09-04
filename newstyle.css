@@ -1,0 +1,17 @@
+body {
+	background: url('image.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+a{padding:10px,15px;
+background-color:red;
+text-decoration:none;
+display:inline-block;
+color:white;
+}
+
+body h1{
+	text-align:center;
+	
+}
